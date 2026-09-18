@@ -97,10 +97,4 @@ The analytical findings and dashboard presented here reflect the collaborative w
 • Cybersecurity Analysts: Security testing, vulnerability assessments, threat modelling, and system hardening.
 
 
-
-
-
-
-Trust and security significantly influence platform usage and decision-making.
-
-Open-ended responses reinforce and humanise quantitative findings.
+ded responses reinforce and humanise quantitative findings.
